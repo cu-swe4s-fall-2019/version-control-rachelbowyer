@@ -17,12 +17,15 @@ The file run.sh runs the calculate.py file.
 The user must specify a mathematical operation and then the two numbers they want the operation to be performed on 
 
 Example: 
-'''
+
+```
 ./run.sh add 1 2
-'''
+```
+
 which gives the result
-'''
+
+```
 3
-'''
+```
 
 If the second specified number is 0 in the division operation, the program with indicate an error caused by the division of zero.
